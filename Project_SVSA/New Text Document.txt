@@ -1,0 +1,4 @@
+capture speed of vehicle
+number plate of vehicle
+using number plate it connect to Department of Motor Traffic and get driver details
+max speed (x)kmph (assume)
